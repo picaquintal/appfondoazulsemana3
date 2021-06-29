@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidcoursebluebackground</string>
+    <string name="c_string_1">Welcome</string>
+    <string name="c_button_1">Enter</string>
+</resources>
